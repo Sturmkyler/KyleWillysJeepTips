@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<style> 
- </style>
     <h1>Kyle's Tips on Restoring Jeeps</h1>
     <p>Welcome to my Jeep restoration website!</p>
     <h2>Jeep Restoration Tips</h2>

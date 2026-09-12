@@ -7,7 +7,7 @@
  background-position: center;
  background-repeat: no-repeat; 
  background-attachment: fixed;
- }
+  }
  </style>
     <h1>Kyle's Tips on Restoring Jeeps</h1>
     <p>Welcome to my Jeep restoration website!</p>

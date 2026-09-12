@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 <style> 
-  body {
-     background-image: url("Kyle's Tips on Restoring Jeeps.png");
- background-size: cover; 
- background-position: center;
- background-repeat: no-repeat; 
- background-attachment: fixed;
-  }
  </style>
     <h1>Kyle's Tips on Restoring Jeeps</h1>
     <p>Welcome to my Jeep restoration website!</p>

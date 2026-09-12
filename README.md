@@ -8,7 +8,7 @@
     <p>Welcome to my Jeep restoration website!</p>
     <h2>Jeep Restoration Tips</h2>
     <a href="jeep1.html">
-        <img src="jeep1.jpg" alt="Jeep Restoration" width="300">
+        <img src="Kyle's Tips on Restoring Jeeps.png" alt="Jeep Restoration" width="300">
     </a>
     <a href="jeep2.html">
         <img src="jeep2.jpg" alt="Jeep Restoration Tips" width="300">

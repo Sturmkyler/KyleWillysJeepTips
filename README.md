@@ -4,7 +4,7 @@
     <h2>Jeep Restoration Tips</h2>
     
     <a href="index.html">
-        <img src="Kyle's Tips on Restoring Jeeps.png" alt="Jeep Restoration" width="700">
+        <img src="Kyle's Tips on Restoring Jeeps.png" alt="Jeep Restoration" width="1800">
     </a>
     
     <a href="jeep2.html">

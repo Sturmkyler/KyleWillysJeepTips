@@ -1,9 +1,7 @@
  <a href="index.html">
         <img src="Kyle's Tips on Restoring Jeeps.png" alt="Jeep Restoration" width="1800">
     </a>
-    <a href="jeep2.html">
-        <img src="Where to buy parts.png" alt="Jeep Restoration Tips" width="300">
-    </a>
+        <a href="Where to buy parts.png">Where to buy parts</a>
     <a href="jeep3.html">
         <img src="jeep3.jpg" alt="Restored Jeep" width="300">
    </a>

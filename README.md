@@ -5,7 +5,5 @@
     <a href="jeep3.html">
         <img src="jeep3.jpg" alt="Restored Jeep" width="300">
    </a>
-</body>
-</html>
 
 

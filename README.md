@@ -3,7 +3,7 @@
     </a>
         <a href="Where to buy parts.png">Where to buy parts</a>
         
-    <a href="Wiring Hanress.png">Wiring Harness</a>
+     <a href="Wiring Hanress.png">Wiring Harness</a>
     
     <a href="Painting.png">Painting</a>
 

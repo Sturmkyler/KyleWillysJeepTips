@@ -1,4 +1,5 @@
- <a href="index.html">
+<div class ="main-image">
+     <a href="index.html">
         <img src="Kyle's Tips on Restoring Jeeps.png" 
          alt="Jeep Restoration" 
          width="1800">

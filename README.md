@@ -42,6 +42,75 @@
     </div>
 
 </main>
+</body>
+</html>
+body {
+    margin: 0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero {
+    position: relative;
+    width: 100%;
+    max-width: 1800px;
+    margin: auto;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* This places the links in the center of your main image */
+.hero-links {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 20px;
+}
+
+.hero-links a {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+
+    font-size: 24px;
+    font-weight: bold;
+
+    padding: 12px 20px;
+
+    text-decoration: none;
+
+    border-radius: 5px;
+}
+
+.hero-links a:hover,
+.hero-links a:focus {
+    background-color: white;
+    color: black;
+
+    outline: 3px solid yellow;
+}
+
+@media screen and (max-width: 768px) {
+
+    .hero-links {
+        gap: 10px;
+    }
+
+    .hero-links a {
+        font-size: 16px;
+        padding: 8px 12px;
+    }
+}
 
 </body>
 </html>

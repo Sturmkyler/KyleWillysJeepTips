@@ -3,4 +3,4 @@
     </a>
     <a href="parts.html">Where to buy parts</a>
     <a href="Wiring.html">Wiring Harness</a>
-    <a href="Painting.png">Painting</a>
+    <a href="Painting.html">Painting</a>

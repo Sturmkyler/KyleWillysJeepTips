@@ -1,4 +1,13 @@
-<a href="index.html">
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Kyle's Jeep Tips</title>
+     <link rel="stylesheet" href="Css"
+</head>
+
+<body>
+
+<a href="index.html">      
         <img src="Kyle's Tips on Restoring Jeeps.png" alt="Jeep Restoration" width="1800">
 </a>
 
@@ -9,4 +18,6 @@
     <a href ="Accessories.html">Optional Accessories</a>
 </div>
 
+</body>
+</html>
     

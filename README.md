@@ -6,9 +6,6 @@
 </head>
 
 <body>
-
-<a href="index.html">      
-        <img src="Kyle's Tips on Restoring Jeeps.png" alt="Jeep Restoration" width="1800">
 </a>
 
 <div class ="links">

@@ -1,7 +1,17 @@
+body {
+    margin: 0;
+}
+
 .links {
-      text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
+
 .links a {
-    display: block;
-    margin: 18px;
+    margin: 10px;
+    font-size: 20px;
 }
+

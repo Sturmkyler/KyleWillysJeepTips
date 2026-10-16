@@ -7,6 +7,8 @@ body.home {
     background-size: 100% 100%;
     background-postion: center;
     background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
 }
 
 p, a {

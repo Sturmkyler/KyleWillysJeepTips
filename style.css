@@ -4,7 +4,7 @@ body {
 
 body.home {
     background-image: url("Jeep Setup.jpg");
-    background-size: contain;
+    background-size: 100% 100%;
     background-postion: center;
     background-repeat: no-repeat;
 }

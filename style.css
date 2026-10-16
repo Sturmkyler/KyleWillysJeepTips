@@ -1,7 +1,12 @@
 body {
     background-color: rgb(107, 142, 35);
 }
-   
+body.home {
+    background-image url("Jeep Setup.jpg")
+    background-size: cover;
+    background-postion: center;
+    background-repeat: no-repeat;
+}
 p, a {
    font-size 18px;
    color: rgb(0, 0, 0);

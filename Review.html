@@ -33,3 +33,39 @@
         <td>Wiring and Hardware</td>
     </tr>
     <tr>
+
+        <h2>Painting your Markings</h2>
+<ul>
+    <li>Make a stencil</li>
+    <li> then use either dark blue or white paint for numbers depending on year of jeep</li>
+    <li>Then get your Invasion marking Stencil then paint in the middle of the hood</li>
+</ul>
+
+
+<H2>Survey</H2>
+
+<form id="jeepForm">
+    <label for="topic">Favorite Restoration Topic:</label>
+
+    <select id="topic" name="topic">
+        <option value="Painting">Painting</option>
+        <option value="Wiring">Wiring</option>
+        <option value="Parts">Parts</option>
+        <option value="Accessories">Accessories</option>
+    </select>
+
+    <button type="submit">Submit</button>
+</form>
+
+<p id="result"></p>
+
+<script>
+    document.getElementById("jeepForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+
+        let topic = document.getElementById("topic").value;
+
+        document.getElementById("result").textContent =
+            "You selected: " + topic;
+    });
+</script>

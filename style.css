@@ -3,10 +3,10 @@ body {
 }
 
 body.home {
-    background-image: url("Jeep Setup.jpg");
-    background-size: 100% 100%;
-    background-postion: center;
-    background-repeat: no-repeat;
+    background-image: url("Jeep Setup.jpg"), url("Jeep Setup2.jpg");
+    background-size: 50% 100%, 50% 100%;
+    background-postion: left center, right center;
+    background-repeat: no-repeat, no-repeat;
     min-height: 100vh;
     margin: 0;
 }

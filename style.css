@@ -25,3 +25,16 @@ h1{
     width: 100px;
     height: auto;
 } 
+
+Table { 
+    Border-collaspe: collapse;
+}
+
+th, td {
+    border: 1px soild black;
+    padding: 10 px;
+}
+
+form {
+    margin-top: 20px;
+}

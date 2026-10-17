@@ -27,7 +27,7 @@ h1{
 } 
 
 table { 
-    border-collaspe: collapse;
+    border-collapse: collapse;
 }
 
 th, td {
@@ -45,11 +45,11 @@ form {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    line-heigh: 1.5;
+    line-height: 1.5;
 }
 .parts-image {
-    width: 400px
-    max-width 100% 
+    width: 400px;
+    max-width 100%;
     height: auto;
 {
 

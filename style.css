@@ -20,4 +20,8 @@ p, a {
 h1{
    text-align: center;
 }
-  
+
+.Star {
+    width: 100px;
+    height: auto;
+} 

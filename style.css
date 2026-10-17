@@ -26,13 +26,13 @@ h1{
     height: auto;
 } 
 
-Table { 
-    Border-collaspe: collapse;
+table { 
+    border-collaspe: collapse;
 }
 
 th, td {
-    border: 1px soild black;
-    padding: 10 px;
+    border: 1px solid black;
+    padding: 10px;
 }
 
 form {
@@ -49,12 +49,12 @@ form {
 }
 .parts-image {
     width: 400px
-    Max- width 100% 
+    max-width 100% 
     height: auto;
 {
 
 .wiring-image {
     width: 400px
-    Max width 100%
+    max-width 100%
     height: auto;
 }

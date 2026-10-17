@@ -7,7 +7,7 @@ body.home {
     min-height: 100vh;
     background-image: url("Jeep Setup.jpg"), url("Jeep Setup2.jpg");
     background-size: 35% 100%, 35% 100%;
-    background-postion: left center, right center;
+    background-position: left center, right center;
     background-repeat: no-repeat, no-repeat;
 }
 

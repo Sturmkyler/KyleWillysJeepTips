@@ -38,3 +38,12 @@ th, td {
 form {
     margin-top: 20px;
 }
+
+.home-content {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-heigh: 1.5;
+}
